@@ -32,9 +32,12 @@ _Why:_
 Add your communication plan to your Group Agreement. Some things to consider:
 
 * How will you communicate after hours and on the weekend? Just talk in slack channel (THREAD IT) and make issues use project board.
+
+Slack
   
 * What is your strategy for ensuring everyone's voices are heard? Weekly standup (can be in person, Slack, Or video), Postmortem, Speak up for others.
 
+Slack or Zoom
 
 * How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up? Listen, Mindfulness, Respectful, Slack conversations should be in general channel as opposed to DMs.
 
@@ -47,3 +50,6 @@ Add your communication plan to your Group Agreement. Some things to consider:
 
 
 #### Signed by
+
+Colton Kaiser
+Khanittha Kraj
